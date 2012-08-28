@@ -23,7 +23,7 @@ _UK5. Exploring changes.do_, _UK6. Simple regressions.do_ and _UK7. Variance dec
 _UK8. Bonuses and wage inequality.do_ sets up a variance decomposition specification to see how the change of performance pay has changed the wage distribution over the last couple of years in the UK.
 
 ## For Germany
-GE1 sets up the database and variables; GE set up different regressions and graphical evidence to test an empirical model from economic
+GE1 sets up the database and variables; GE2, GE3, GE4 and GE5 set up different regressions and graphical evidence to test an empirical model from economic
 literature; UK8 more specifically performans a variance decomposition on the wage distribution to see what would have happened to the wage distribution absent of performance pay. 
 
 
