@@ -24,7 +24,7 @@ _UK8. Bonuses and wage inequality.do_ sets up a variance decomposition specifica
 
 ## For Germany
 GE1 sets up the database and variables; GE2, GE3, GE4 and GE5 set up different regressions and graphical evidence to test an empirical model from economic
-literature; UK8 more specifically performans a variance decomposition on the wage distribution to see what would have happened to the wage distribution absent of performance pay. 
+literature; GE6 more specifically performans a variance decomposition on the wage distribution to see what would have happened to the wage distribution absent of performance pay. 
 
 
 _GE1. data extract and variables.do_ is a do-file that extracts from the different SOEP master data files, deflates and declares variables.
